@@ -5,7 +5,7 @@
 ## Informações sobre conjunto de dados
 
 <div align='center'>
-    <img src='https://www.localizahertz.com/brasil-site/pt-br/rede-de-agencias/PublishingImages/Sao-Paulo/sao-paulo-cabecalho.jpg' width='120%' height='260px'>
+    <img src='https://www.localizahertz.com/brasil-site/pt-br/rede-de-agencias/PublishingImages/Sao-Paulo/sao-paulo-cabecalho.jpg' width='120%' height='360px'>
 </div>
 
 <br>
@@ -40,7 +40,7 @@ This project is part of the [Machine Health](https://github.com/lmaoclost/Machin
 This project will be based on Cross-industry standard process for data mining (CRISP-DM). A standard idea about data science project may be linear: data preparation, modeling, evaluation and deployment. However, when we use CRISP-DM methodology a data science project become circle-like form. Even when it ends in Deployment, the project can restart again by Business Understanding. How might it help?
 
 <p align="center">
-    <img src="https://artia.com/wp-content/uploads/2019/06/metodologia-e-metodo.jpg" alt="Kitten" title="A cute kitten" width="430" height="400" />
+    <img src="https://artia.com/wp-content/uploads/2019/06/metodologia-e-metodo.jpg" alt="Kitten" title="A cute kitten" width="430" height="390" />
 </p>
 
 It may help to avoid the data scietist to stop in one specific step and wast time on it. When all the project is completed the data scientist can return to initial step and do every step again. Therefore, the main goal it is to follow circles as it needs.
