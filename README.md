@@ -5,7 +5,7 @@
 ## Informações sobre conjunto de dados
 
 <div align='center'>
-    <img src='https://www.ingaia.com.br/wp-content/uploads/2017/04/locacao-como-funciona-o-titulo-de-capitalizacao-para-aluguel.jpeg' width='100%' height='260px'>
+    <img src='https://www.localizahertz.com/brasil-site/pt-br/rede-de-agencias/PublishingImages/Sao-Paulo/sao-paulo-cabecalho.jpg' width='100%' height='260px'>
 </div>
 
 <br>
