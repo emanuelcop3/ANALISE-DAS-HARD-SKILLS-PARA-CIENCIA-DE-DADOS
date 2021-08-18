@@ -1,2 +1,2 @@
-# ANALISE-DAS-HARD-SKILLS-PARA-CIENCIA-DE-DADOS
- Busca das principais habilidades necessárias para se tornar cientista de dados
+# Busca por aluguel na cidade de São Paulo 
+ Busca por apartamentos com local e aluguel acessível das universidades.
