@@ -5,7 +5,7 @@
 ## Informações sobre conjunto de dados
 
 <div align='center'>
-    <img src='https://www.localizahertz.com/brasil-site/pt-br/rede-de-agencias/PublishingImages/Sao-Paulo/sao-paulo-cabecalho.jpg' width='220%' height='760px'>
+    <img src='https://www.localizahertz.com/brasil-site/pt-br/rede-de-agencias/PublishingImages/Sao-Paulo/sao-paulo-cabecalho.jpg' width='320%' height='760px'>
 </div>
 
 <br>
