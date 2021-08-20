@@ -24,11 +24,13 @@ A base de dados foi selecionada de sites de aluguel, além das análises feitas 
 
 ## Sobre
 
-This project is part of the [Machine ](https://github.com/lmaoclost/Machine-Health) project. It aims to create a app to predict some dicease using data science studies. **WARNING: The app is just for study purposes. Therefore you cannot use it instead of going to the doctor**. 
+Este projeto tem como principal objetivo trabalhar com armazenamento de dados a partir de sites voltados a procura de alugue,portanto,será trabalho a manipulação de diferentes arquivos, além disso, a busca por facilitar a procura por imóveis que se adequem ao perfil universitário fará parte desse projeto.**. 
 
-## Metodologia
+## Produto Final 
+Analisar e delimitar os problemas que envolvem espalhamento de dados ou dados escondidos atrás de interfaces ruins. Oferecer uma análise detalhada estatística e validá-la com 
+especialistas. Criar um framework em Python que facilite a análise para analistas e pessoas interessadas. Ao final, os estudantes deverão criar um relatório (report) sobre o impacto dessas informações estarem do jeito que estãoe disponibilizar os dados em formato amigável para os interessados em seu consumo.
 
-This project will be based on Cross-industry standard process for data mining (CRISP-DM). A standard idea about data science project may be linear: data preparation, modeling, evaluation and deployment. However, when we use CRISP-DM methodology a data science project become circle-like form. Even when it ends in Deployment, the project can restart again by Business Understanding. How might it help?
+
 
 <p align="center">
     <img src="https://artia.com/wp-content/uploads/2019/06/metodologia-e-metodo.jpg" alt="Kitten" title="A cute kitten" width="430" height="390" />
