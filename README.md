@@ -13,23 +13,13 @@
 A base de dados foi selecionada de sites de aluguel, além das análises feitas das regiões próximas das universidade.
 ### Insights
 
-1. Pregnancies | Number of times pregnant
+1. Valor, Condominio, tamanho, quartos, banheiros, vagas e endereço.
 
-1. Glucose | Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+2. Filtrar por apartamentos
 
-1. BloodPressure | Diastolic blood pressure (mm Hg)
+3. Pesquisar pelo endereço
 
-1. SkinThickness | Triceps skin fold thickness (mm)
-
-1. Insulin | 2-Hour serum insulin (mu U/ml)
-
-1. | Body mass index (weight in kg/(height in m^2)
-
-1. DiabetesPedigreeFunction | Diabetes pedigree function
-
-1. Age | Age (years)
-
-1. Outcome | Class variable (0 or 1) 268 of 768 are 1, the others are 0
+4. Selecionar para alugar
 
 ## Sobre
 
