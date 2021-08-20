@@ -1,5 +1,6 @@
 # Busca por aluguel na cidade de São Paulo 
- Busca por apartamentos com local e aluguel acessível das universidades.
+### Case de negócio 
+Um universitário precisa mudar-se para São Paulo,logo, encontrar um local para morar que atenda as suas necessidades não é um tarefa fácil.Assim, há variáveis que precisam ser consideradas como preço do aluguel,quantidade de comôdos, distância da universidade, proximidade das estações de metrô e ônibus.
  
 
 ## Informações sobre conjunto de dados
