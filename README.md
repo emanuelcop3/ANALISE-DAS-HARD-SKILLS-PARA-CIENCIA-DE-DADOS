@@ -36,7 +36,7 @@ especialistas. Criar um framework em Python que facilite a análise para analist
     <img src="https://artia.com/wp-content/uploads/2019/06/metodologia-e-metodo.jpg" alt="Kitten" title="A cute kitten" width="430" height="390" />
 </p>
 
-It may help to avoid the data scietist to stop in one specific step and wast time on it. When all the project is completed the data scientist can return to initial step and do every step again. Therefore, the main goal it is to follow circles as it needs.
+
 
 <!--
 ### Pipeline
