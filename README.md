@@ -23,7 +23,7 @@ A base de dados foi selecionada de sites de aluguel, além das análises feitas 
 
 ## Sobre
 
-This project is part of the [Machine Health](https://github.com/lmaoclost/Machine-Health) project. It aims to create a app to predict some dicease using data science studies. **WARNING: The app is just for study purposes. Therefore you cannot use it instead of going to the doctor**. 
+This project is part of the [Machine ](https://github.com/lmaoclost/Machine-Health) project. It aims to create a app to predict some dicease using data science studies. **WARNING: The app is just for study purposes. Therefore you cannot use it instead of going to the doctor**. 
 
 ## Metodologia
 
@@ -65,7 +65,7 @@ It may help to avoid the data scietist to stop in one specific step and wast tim
 
 ## Referências
 
-* [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+* [OLX](https://sp.olx.com.br/grande-campinas)
 
 ## License
 
