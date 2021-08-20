@@ -69,6 +69,11 @@ especialistas. Criar um framework em Python que facilite a análise para analist
 ## Referências
 
 * [OLX](https://sp.olx.com.br/grande-campinas)
+* [Quinto Andar](https://www.quintoandar.com.br/alugar/imovel/sao-paulo-sp-brasil)
+* [Trovit](https://imoveis.trovit.com.br/aluguel-s%C3%A3o-paulo)
+* [Vivareal](https://www.vivareal.com.br/aluguel/sp/sao-paulo/)
+* [ZapMóveis](https://www.zapimoveis.com.br/aluguel/imoveis/sp+sao-paulo/)
+* [ImóvelWeb](https://www.imovelweb.com.br/imoveis-aluguel-sao-paulo-sp.html)
 
 ## License
 
