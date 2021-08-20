@@ -28,7 +28,7 @@ Este projeto tem como principal objetivo trabalhar com armazenamento de dados a 
 
 ## Produto Final 
 Analisar e delimitar os problemas que envolvem espalhamento de dados ou dados escondidos atrás de interfaces ruins. Oferecer uma análise detalhada estatística e validá-la com 
-especialistas. Criar um framework em Python que facilite a análise para analistas e pessoas interessadas. Ao final, os estudantes deverão criar um relatório (report) sobre o impacto dessas informações estarem do jeito que estãoe disponibilizar os dados em formato amigável para os interessados em seu consumo.
+especialistas. Criar um framework em Python que facilite a análise para analistas e pessoas interessadas. Ao final, será criado um relatório (report) sobre o impacto dessas informações estarem do jeito que estão e disponibilizar os dados em formato amigável para os interessados em seu consumo.
 
 
 
