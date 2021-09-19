@@ -1,6 +1,6 @@
 # Busca por aluguel na cidade de São Paulo 
 ### Case de negócio 
-Um universitário precisa mudar-se para São Paulo,logo, encontrar um local para morar que atenda as suas necessidades não é um tarefa fácil.Assim, há variáveis que precisam ser consideradas como preço do aluguel,quantidade de comôdos, distância da universidade, proximidade das estações de metrô e ônibus.
+Um universitário precisa mudar-se para São Paulo,logo, encontrar um local para morar que atenda as suas necessidades não é um tarefa fácil.Assim, há variáveis que precisam ser consideradas como preço do aluguel,quantidade de cômodos, distância da universidade, proximidade das estações de metrô e ônibus.
  
 
 ## Informações sobre conjunto de dados
